@@ -1,0 +1,7 @@
+﻿  fxc compile for debug: C:\Users\n\Desktop\RastertekAlt_FrankLuna\d3d11CodeSet1\Chapter 10 Stenciling\Mirror\FX\Basic.fx
+  Microsoft (R) D3DX9 Shader Compiler 9.14.701.0000
+  Copyright (C) Microsoft Corporation 2002-2003. All rights reserved.
+  
+CUSTOMBUILD : error X3506: unrecognized compiler target 'fx_5_0'
+  
+  compilation failed; no code produced
